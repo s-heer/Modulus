@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Modulus.Properties" GeneratedClassName="Config">
+  <Profiles />
+  <Settings>
+    <Setting Name="Data_Source" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SERVEUR-MOTION\MOTIONCOMPOSITES</Value>
+    </Setting>
+    <Setting Name="Initial_Catalog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MODULUS_TEST</Value>
+    </Setting>
+    <Setting Name="User_ID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MotComp2011</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
